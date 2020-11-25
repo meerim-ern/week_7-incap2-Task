@@ -114,7 +114,7 @@
 #     def volume(self):
 #         self.__square_area()
 #         self.__height()
-#         v = (self.s1/self.h)/3
+#         v = (self.s1*self.h)/3
 #         return v
 
 
